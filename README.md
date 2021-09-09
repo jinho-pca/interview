@@ -10,8 +10,6 @@
 [![Star on GitHub](https://img.shields.io/github/stars/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/stargazers)
 [![Fork on GitHub](https://img.shields.io/github/forks/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/network/members)
 
-[<img src="https://github.com/gyoogle/blog/blob/master/docs/.vuepress/public/images/BMC.png?raw=true" width="150px" height="30px">](https://www.buymeacoffee.com/gyoogle)
-
 <br>
 
 ### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
