@@ -4,8 +4,6 @@
 
 <br>
 
-<br>
-
 ### ⏩ ⏩ ⏩  [웹 사이트에서 편하게 공부하세요! Click!](https://gyoogle.dev/)  ⏪ ⏪ ⏪
 
 <br>
